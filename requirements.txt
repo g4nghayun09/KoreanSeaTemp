@@ -1,9 +1,4 @@
-# requirements.txt
 streamlit
 pandas
-numpy
-matplotlib
 plotly
 requests
-folium
-streamlit_folium
